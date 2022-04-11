@@ -299,17 +299,6 @@ const ImgTag = styled.span`
   }
 `;
 
-// const BoardListArea = styled.section`
-//   margin: 15px;
-//   padding-left: 20px;
-//   width: 360px;
-//   height: 44px;
-//   border-radius: 12px;
-//   line-height: 44px;
-//   vertical-align: middle;
-//   background-color: rgb(237, 237, 237);
-// `;
-
 const ImgArea = css`
   width: 340px;
   height: 454px;
